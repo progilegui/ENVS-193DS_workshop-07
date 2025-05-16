@@ -18,4 +18,4 @@ What code is there, and what does it do?
 
 ## Rendered output
 
-Link to the rendered output is [here]https://progilegui.github.io/ENVS-193DS_workshop-07/code/ENVS-193DS_workshop-07_complete.html.
+Link to the rendered output is [here](https://progilegui.github.io/ENVS-193DS_workshop-07/code/ENVS-193DS_workshop-07_complete.html).
