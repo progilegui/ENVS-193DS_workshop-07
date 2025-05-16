@@ -10,6 +10,8 @@ execute:
   warning: false # use this to make sure warnings don't show up
 ---
 
+**NOTE!! This is reference for linear models**
+
 # 1. Set up
 
 ```{r libraries-and-data}
