@@ -6,9 +6,9 @@ All READMEs for this class should have the following sections:
 
 ## General information
 
-What is this repo for?
+This repo is for practicing forking and for reference for linear models.
 
-Whose repo is it? Who is contributing to it?
+It is originally from fjoyce, and I am contributing to the forked version.
 
 ## Data and file information
 
